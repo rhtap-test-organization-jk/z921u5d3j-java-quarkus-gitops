@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: z921u5d3j-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/z921u5d3j-java-quarkus
